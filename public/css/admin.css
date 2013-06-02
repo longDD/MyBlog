@@ -1,0 +1,31 @@
+/* 
+    Document   : admin
+    Created on : 2013-3-29, 20:35:08
+    Author     : long
+*/
+/*  top   */
+.m-left {
+	width: 150px;
+	padding: 20px;
+	border-right: solid 1px #000;
+	min-height: 600px;
+}
+
+.m-right {
+	width: 95%;
+	border-left: solid 1px #3A3839;
+	padding: 20px;
+	min-height: 600px;
+}
+
+.m-box {
+	background-color: #292828;
+	color: #E5E5E5;
+}
+
+#m-cont {
+	overflow: auto;
+	background-color: #292828;
+	color: #E5E5E5;
+	border: solid 1px #000;
+}

@@ -1,0 +1,159 @@
+/* 
+    Before finding the right people, the only need to do is to make yourself good enough. 
+    Document   : default
+    Created on : 2013-4-2, 22:02:30
+    Author     : long
+    Description: 前台页面css
+*/
+
+/*common*/
+body {
+	padding-top: 40px;
+	background-color: #DFDFDF;
+}
+
+.main1 {
+	min-height: 600px;
+}
+
+.conts {
+	border: solid 1px #ccc;
+	border-radius: 5px;
+	min-height: 200px;
+	margin-top: 20px;
+	background-color: #FFF;
+}
+
+.conts-title {
+	padding-left: 30px;
+}
+/*
+.conts-img{
+    height: 150px;
+    width: 180px;
+    margin-left: 30px;
+    margin-top:10px;
+    margin-right: 10px;
+    float: left;
+}
+*/
+.conts-cont {
+	height: 120px;
+	margin-right: 10px;
+	overflow: hidden;
+}
+
+.conts-menu {
+	background-color: #1D1D1D;
+	height: 40px;
+	clear: both;
+	line-height: 40px;
+	padding-left: 30px;
+}
+
+.m-btn {
+	margin-left: 5px;
+}
+
+.main2 {
+	
+}
+
+.part {
+	margin-top: 20px;
+	min-height: 200px;
+	background-color: #2C2C2C;
+	border-radius: 5px;
+}
+
+.part-title {
+	min-height: 40px;
+	border-bottom: solid 1px #0D0D0D;
+	line-height: 40px;
+	color: #BBBBBB;
+	font-weight: bold;
+	padding-left: 20px;
+}
+
+.part-cont {
+	min-height: 120px;
+	border-top: solid 1px #373737;
+	padding: 5px 15px;
+}
+
+#tags {
+	position: relative;
+	width: 200px;
+	height: 200px;
+}
+
+#tags a {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	color: #fff;
+	font-weight: bold;
+	text-decoration: none;
+	padding: 3px 6px;
+}
+
+/*footer*/
+.footer {
+	text-align: center;
+	padding: 30px 0;
+	margin-top: 70px;
+	border-top: 1px solid #e5e5e5;
+	background-color: #1B1B1B;
+}
+
+.footer p {
+	margin-bottom: 0;
+	color: #777;
+}
+
+.footer-links {
+	margin: 10px 0;
+}
+
+.footer-links li {
+	display: inline;
+	padding: 0 2px;
+}
+
+.footer-links li:first-child {
+	padding-left: 0;
+}
+
+/*display*/
+.dis-cont {
+	min-height: 150px;
+	margin-top: 20px;
+	border: solid 1px #ccc;
+	border-radius: 5px;
+	background-color: #F9F9F9;
+	padding: 20px;
+}
+
+.dis-copyright {
+	height: 40px;
+}
+
+.prev-next {
+	height: 40px;
+}
+
+.dis-link {
+	
+}
+
+.read-comment {
+	
+}
+
+.write-comment {
+	margin-bottom: 20px;
+}
+
+/*list*/
+
+/*img*/
